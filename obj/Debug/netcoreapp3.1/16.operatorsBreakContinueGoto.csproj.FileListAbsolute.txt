@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\bin\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.exe
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\bin\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.deps.json
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\bin\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\bin\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\bin\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.dll
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\bin\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.pdb
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\obj\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\obj\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\obj\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\obj\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.dll
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\obj\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.pdb
+C:\Users\Bla\source\repos\DataTypes\16.operatorsBreakContinueGoto\obj\Debug\netcoreapp3.1\16.operatorsBreakContinueGoto.genruntimeconfig.cache
